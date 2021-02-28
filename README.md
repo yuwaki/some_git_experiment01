@@ -3,9 +3,9 @@
 
 ## Under the April Moon
 
-Oh, well the world is dreaming
-Under the April moon,
-Her soul in love with beauty
+Oh, well the world is dreaming\n
+Under the April moon,\n
+Her soul in love with beauty\n
 Her senses all a-swoon!
 
 ## Commits
